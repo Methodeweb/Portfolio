@@ -57,7 +57,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Change automatiquement l’image d’accueil toutes les 4 secondes
 
 const imagesBienvenue = [
-  "img/Compétence.png",
+  "img/Compétence.jpeg",
   "img/ampoul.png",
   "img/Ecodesign.png"
 ];
